@@ -495,6 +495,20 @@ body {
    FAQ / Accordion
    ============================================ */
 
+/* FAQ section heading & subtitle */
+.faq-heading {
+  font-size: var(--font-size-2xl);
+}
+@media (min-width: 768px) {
+  .faq-heading {
+    font-size: var(--font-size-3xl);
+  }
+}
+
+.faq-subtitle {
+  font-size: var(--font-size-sm);
+}
+
 .accordion-button {
   width: 100%;
   display: flex;
@@ -741,10 +755,29 @@ body {
 
 .inquiry-heading {
   color: var(--text-black-primary);
+  font-size: var(--font-size-3xl);
+}
+
+@media (min-width: 768px) {
+  .inquiry-heading {
+    font-size: var(--font-size-4xl);
+  }
 }
 
 .inquiry-description {
+  font-size: var(--font-size-md);
+  color: var(--text-black-primary);
   line-height: 1.6;
+}
+
+.homepage-link {
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+  text-decoration: none;
+  color: inherit;
+}
+.homepage-link:hover {
+  opacity: 0.8;
 }
 
 /* Radio Buttons */

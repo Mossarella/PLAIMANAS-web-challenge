@@ -1,8 +1,6 @@
 # Plaimanas-web-challenge
 
-This frontend project was rapidly built following the provided design, with a **design system in mind**. The UI uses a shared set of tokens for colors, typography, and spacing so the layout stays consistent and easy to extend. Implemented with vanilla HTML, CSS, and JavaScript, plus Tailwind CSS via CDN—no build step required.
-
-The hardest part about this work is, We need to do anything in vanilla, It's been nice sweeping a dust off myself for once in a while, but on the other hand I also felt like i'm shooting myself in the leg.
+This frontend project was rapidly built following the provided design, with a **design system in mind** also aiming about sementic best practice. The UI uses a shared set of tokens for colors, typography, and spacing so the layout stays consistent and easy to extend. Implemented with vanilla HTML, CSS, and JavaScript, plus Tailwind CSS via CDN—no build step required.
 
 🌐 **Try it live:** https://plaimanas-web-challenge.vercel.app/
 
