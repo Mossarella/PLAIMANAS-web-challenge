@@ -4,7 +4,7 @@ This frontend project was rapidly built following the provided design, with a **
 
 The hardest part about this work is, We need to do anything in vanilla, It's been nice sweeping a dust off myself for once in a while, but on the other hand I also felt like i'm shooting myself in the leg.
 
-You can try for yourself here: https://plaimanas-web-challenge.vercel.app/
+🌐 **Try it live:** https://plaimanas-web-challenge.vercel.app/
 
 - **Colors** — Semantic tokens (e.g. `--text-black-primary`, `--bg-white-primary`, `--bg-black-primary`) used across components.
 - **Typography** — Hanken Grotesk via Google Fonts; size scale (`--font-size-xs/sm/md`) and utility class `.font-hanken`.
@@ -14,7 +14,7 @@ All of this lives in `styles/custom.css` and is referenced via Tailwind arbitrar
 
 - ✔️ **Fully responsive** — Mobile hamburger menu that opens a full-screen white overlay with all nav items; EDITORIAL expands to a dropdown (A.S.C, BAZAAR, ELLE, GQ, ) with open/close state styling.
 
-## Project structure
+## 📁 Project structure
 
 ```
 plaimanas/
@@ -29,7 +29,7 @@ plaimanas/
 └── README.md
 ```
 
-## How to run
+## 🚀 How to run
 
 1. Clone or download the project and go to the folder:
 
@@ -48,13 +48,13 @@ plaimanas/
 
    No build or environment variables required.
 
-## Technologies
+## 🛠️ Technologies
 
 - **HTML5** — Semantic structure (nav, main, section, etc.)
 - **Tailwind CSS** — Via CDN; utilities + design tokens from `custom.css`
 - **Vanilla JavaScript** — IIFE-based; no framework (accordion, tabs, infinite scroll, language dropdown, mobile menu, EDITORIAL submenu)
 
-## Responsive breakpoints
+## 📐 Responsive breakpoints
 
 - `md:` — 768px and up (desktop nav, layout shifts)
 - `lg:` — 1024px and up (wider spacing and typography)
