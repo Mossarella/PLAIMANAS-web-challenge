@@ -61,6 +61,9 @@ plaimanas/
 
 ---
 
+![Preview 1](./assets/images//ss1.png)
+![Preview 2](./assets/images//ss2.png)
+
 \
 _Created by Mossarelladev, 2026_.\
 Thanks for sticking to here ⭐
