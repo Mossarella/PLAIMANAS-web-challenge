@@ -2,7 +2,9 @@
 
 This frontend project was rapidly built following the provided design, with a **design system in mind**. The UI uses a shared set of tokens for colors, typography, and spacing so the layout stays consistent and easy to extend. Implemented with vanilla HTML, CSS, and JavaScript, plus Tailwind CSS via CDN—no build step required.
 
-## Design system
+The hardest part about this work is, We need to do anything in vanilla, It's been nice sweeping a dust off myself for once in a while, but on the other hand I also felt like i'm shooting myself in the leg.
+
+You can try for yourself here: https://plaimanas-web-challenge.vercel.app/
 
 - **Colors** — Semantic tokens (e.g. `--text-black-primary`, `--bg-white-primary`, `--bg-black-primary`) used across components.
 - **Typography** — Hanken Grotesk via Google Fonts; size scale (`--font-size-xs/sm/md`) and utility class `.font-hanken`.
